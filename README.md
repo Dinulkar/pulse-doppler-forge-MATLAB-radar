@@ -1,4 +1,7 @@
 # pulse-doppler-forge-MATLAB-radar
+
+![Project Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+
 # MatlabRadarModeling: End-to-End Radar System Simulation
 
 A comprehensive, open-source MATLAB simulation suite for modeling, designing, and analyzing radar systems. This repository provides foundational scripts, link budget calculators, and signal processing chains to simulate radar performance across diverse environments.
